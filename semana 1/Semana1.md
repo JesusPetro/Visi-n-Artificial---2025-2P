@@ -8,6 +8,8 @@ Durante esta primera semana del curso se realizó una introducción general a la
 
 Inspirado en los estilos de mi vault de Obsidian, he decidido implementar dos _callouts_ personalizados para mejorar la estética y organización de las notas (por ejemplo, para resaltar una nota importante con "> Nota"). Los callouts definidos son de tipo `información` e `importante` (Info y Warning). A continuación se muestra la estructura recomendada para cada uno:
 
+> **Nota**: Si se va a visualizar en GitHub, se recomienda ajustar los colores y separar el título en una etiqueta diferente para garantizar una correcta visualización.
+
 ### ⚠️ Warning
 
 ```html
